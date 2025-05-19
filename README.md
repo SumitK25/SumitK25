@@ -1,6 +1,3 @@
-<!-- Header Banner (Optional) -->
-<img src="https://github.com/SumitK25/SumitK25/blob/main/sumi_ai.jpeg" alt="Sumit Kumar Banner" width="100%"/>
-
 <!-- Profile Picture (Optional - Circular Avatar) -->
 <p align="center">
   <img src="https://github.com/SumitK25/SumitK25/blob/main/sumi_ai.jpeg" width="120px" style="border-radius: 50%;" alt="Sumit Kumar GitHub Profile"/>
@@ -46,7 +43,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple?style=for-the-badge&logo=visual-studio)
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
 
 ---
 
@@ -65,6 +61,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumit-kumar-97b321215/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-informational?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/sumit25mgr)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Profile-success?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/SumitK)
+
 
 ---
 
