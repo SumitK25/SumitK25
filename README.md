@@ -1,9 +1,9 @@
 <!-- Header Banner (Optional) -->
-<img src="https://drive.google.com/file/d/1MxR4rCqYeWj6HvAYqDg2v7Z-HoQYeKyC/view?usp=drive_link" alt="Sumit Kumar Banner" width="100%"/>
+<img src="https://github.com/SumitK25/SumitK25/blob/main/sumi_ai.jpeg" alt="Sumit Kumar Banner" width="100%"/>
 
 <!-- Profile Picture (Optional - Circular Avatar) -->
 <p align="center">
-  <img src="https://github.com/sumitk25" width="120px" style="border-radius: 50%;" alt="Sumit Kumar GitHub Profile"/>
+  <img src="https://github.com/SumitK25/SumitK25/blob/main/sumi_ai.jpeg" width="120px" style="border-radius: 50%;" alt="Sumit Kumar GitHub Profile"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
