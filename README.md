@@ -3,7 +3,7 @@
 
 <!-- Profile Picture (Optional - Circular Avatar) -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120px" style="border-radius: 50%;" alt="Sumit Kumar GitHub Profile"/>
+  <img src="https://avatars.githubusercontent.com/u/SumitK25?v=4" width="120px" style="border-radius: 50%;" alt="Sumit Kumar GitHub Profile"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
