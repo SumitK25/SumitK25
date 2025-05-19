@@ -55,6 +55,20 @@
 
 ---
 
+### 💼 My Projects
+
+| 📂 Category                     | 🧩 Projects                                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🧮 JavaScript Mini Projects** | 🔹 [Calculator](https://github.com/Sumitk25/Calculator) <br> 🔹 [function-callback](https://github.com/Sumitk25/function-callback) <br> 🔹 [closure](https://github.com/Sumitk25/closure) <br> 🔹 [javascript_array](https://github.com/Sumitk25/javascript_array) <br> 🔹 [DOM](https://github.com/Sumitk25/DOM)                                   |
+| **🧾 CRUD & Full Stack Apps**   | 🔹 [crud_expense](https://github.com/Sumitk25/crud_expense) <br> 🔹 [crud-axios](https://github.com/Sumitk25/crud-axios) <br> 🔹 [axios-crash](https://github.com/Sumitk25/axios-crash) <br> 🔹 [pharmacy-management-system](https://github.com/Sumitk25/pharmacy-management-system) <br> 🔹 [booking-app](https://github.com/Sumitk25/booking-app) |
+| **📊 Data Projects / ML**       | 🔹 [customer-churn-prediction](https://github.com/Sumitk25/customer-churn-prediction) <br> 🔹 [crime-hotspot-prediction-analysis](https://github.com/Sumitk25/crime-hotspot-prediction-analysis) <br> 🔹 [IPL_dataset](https://github.com/Sumitk25/IPL_dataset)                                                                                     |
+| **🌤️ APIs & Utilities**        | 🔹 [weather](https://github.com/Sumitk25/weather) <br> 🔹 [easybank](https://github.com/Sumitk25/easybank)                                                                                                                                                                                                                                           |
+| **📋 Web Forms / UI Projects**  | 🔹 [survey-form](https://github.com/Sumitk25/survey-form) <br> 🔹 [expenses-tracker](https://github.com/Sumitk25/expenses-tracker) <br> 🔹 [todo_list](https://github.com/Sumitk25/todo_list)                                                                                                                                                       |
+| **🏆 Coding Challenge**         | 🔹 [Breaking-the-record](https://github.com/Sumitk25/Breaking-the-record) <br> 🔗 [Hackerrank Challenge](https://www.hackerrank.com/challenges/three-month-preparation-kit-breaking-best-and-worst-records/problem)                                                                                                                                  |
+
+---
+
+
 ### 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge)](https://sumitkport.netlify.app)
