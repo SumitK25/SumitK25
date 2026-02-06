@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as a **Full Stack Developer** with **2.3+ years** of experience  
+- 🔭 I’m currently working as a **Full Stack Developer** with **3 year of experience** of experience  
 - 🌱 Currently exploring **Microservices**, **Cloud Services**, and **Advanced React Patterns**  
 - 💬 Ask me about: `.NET Core`, `React.js`, `SQL`, `Java`, `RESTful APIs`  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sumit-kumar-97b321215/) | [Portfolio](https://sumitkport.netlify.app)  
